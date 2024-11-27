@@ -1,0 +1,6 @@
+[FIXED: 1.0]
+- add button close in windows system reset manager
+- add button close in windows system master reset manager
+- add render number jewels requisits in system reset and master reset manager
+- fixed count jewels check in reset and master reset manager
+- add texture button_close_navi.ozt
