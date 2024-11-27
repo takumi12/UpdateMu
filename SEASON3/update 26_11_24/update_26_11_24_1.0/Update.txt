@@ -1,0 +1,4 @@
+[FIXED: 1.0]
+- fixed item stack drop ship itembag
+- fixed item stack for level use diferente -1
+- fixed checking itemstack for level

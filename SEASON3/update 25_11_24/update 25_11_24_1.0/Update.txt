@@ -1,0 +1,14 @@
+- [Add] minimap style gfx ex700 load draw
+- [Add] render point in minimap style gfx ex700
+- [Add] Post item
+- [Add] Unpack item stack
+- [Add] ItemRenderMesh in maininfo
+- [Add] MonsterRenderMesh in maininfo
+- [Add] ScaleForm Load font settings
+[FIXED]
+- Healing potion, Mana potion, antidote, ale, apple not stacking in inventory 
+- crest of monarch cape mix doesn't work
+- crest of monarch doesn't make cape of lord it makes random 2nd wings from other class
+- bug kalima speed animation effects
+- Fixed drop item, move personal store item, move warehouse item, repair item settings in item.xml (muserver)
+- Fixed attack effect monster id 295

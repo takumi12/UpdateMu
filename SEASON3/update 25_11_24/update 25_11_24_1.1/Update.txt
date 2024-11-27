@@ -1,0 +1,5 @@
+[FIXED: 1.1]
+- Right click when equipping item with slot out of range
+- Check equipment slot range
+- check drop item stack
+- update item target when using jewel stack

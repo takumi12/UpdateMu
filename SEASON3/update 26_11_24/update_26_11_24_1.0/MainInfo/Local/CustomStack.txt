@@ -1,0 +1,57 @@
+//Index   Level  MaxStack   CreateIndex   BreakUp  Comment
+2055      *      255        *             0        //Bolt
+2063      *      255        *             0        //Arrow
+6688      *      20         *             0        //Splinter of Armor
+6689      *      20         *             0        //Bless of Guardian
+6690      *      10         *             0        //Claw of Beast
+6288      *      5          6292          0        //Mithril Fragment
+6290      *      5          6293          0        //Elixir Fragment
+6801      *      5          6802          0        //Spirit Map Fragment
+6803      *      10         *             0        //Trophies of Battle
+7168      *      255        *             0        //Apple
+7169      *      255        *             0        //Small Healing Potion
+7170      *      255        *             0        //Healing Potion
+7171      *      255        *             0        //Large Healing Potion
+7172      *      255        *             0        //Small Mana Potion
+7173      *      255        *             0        //Mana Potion
+7174      *      255        *             0        //Large Mana Potion
+7175      *      255        *             0        //Siege Potion
+7176      *      255        *             0        //Antidote
+7189      *      255        *             0        //Rena
+7197      *      5          7196          0        //Symbol of Kundun
+7203      *      255        *             0        //Small SD Potion
+7204      *      255        *             0        //SD Potion
+7205      *      255        *             0        //Large SD Potion
+7206      *      255        *             0        //Small Complex Potion
+7207      *      255        *             0        //Complex Potion
+7208      *      255        *             0        //Large Complex Potion
+7214      *      3          *             0        //Jack O'Lantern Blessings
+7215      *      3          *             0        //Jack O'Lantern Wrath
+7216      *      3          *             0        //Jack O'Lantern Cry
+7217      *      3          *             0        //Jack O'Lantern Food
+7218      *      3          *             0        //Jack O'Lantern Drink
+7238      *      255        *             0        //Elite Healing Potion
+7239      *      255        *             0        //Elite Mana Potion
+7253      *      3          *             0        //Cherry Blossom Wine
+7254      *      3          *             0        //Cherry Blossom Rice Cake
+7255      *      3          *             0        //Cherry Blossom Flower Petal
+7256      *      10         *             0        //White Cherry Blossom Branch
+7257      *      30         *             0        //Red Cherry Blossom Branch
+7258      *      255        *             0        //Golden Cherry Blossom Branch
+7268      *      255        *             0        //Lucky Coin
+7269      *      5          7270          0        //Suspicious Scrap of Paper
+7278      *      5          7279          0        //Sign of Dimensions
+7301      *      255        *             0        //Elite SD Potion
+7383      *      24         7384          0        //Card Piece
+7181      *      255        *             1        //Jewel of Bless
+7182      *      255        *             1        //Jewel of Soul
+7184      *      255        *             1        //Jewel of Life
+7190      *      255        *             1        //Jewel of Creation
+7199      *      255        *             1        //Jewel of Guardian
+7210      *      255        *             1        //Jewel of Harmony
+7179      8      255       *             1        //Box Of Kundun 1
+7179      9      255       *             1        //Box Of Kundun 2
+7179      10     255       *             1        //Box Of Kundun 3
+7179      11     255       *             1        //Box Of Kundun 4
+7179      12     255       *             1        //Box Of Kundun 5
+end
