@@ -1,4 +1,8 @@
-[FIXED: 1.0]
-- fixed item stack drop ship itembag
-- fixed item stack for level use diferente -1
-- fixed checking itemstack for level
+[UPDATE: 1.1]
+- add servername in connectserver: serverlist
+
+
+in maininfo: 
+https://imgur.com/8bXE8qZ
+in connectserver:
+https://imgur.com/GBH65eU
