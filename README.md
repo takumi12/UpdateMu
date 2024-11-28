@@ -1,9 +1,6 @@
-27/11/2024<br>
-[UPDATE: 1.1]
-- add servername in connectserver: serverlist
+28/11/2024<br>
+[UPDATE: 1.2]
+- finish tab map and minimap target
 
-in maininfo:<br>
+Show Map Example:<br>
 ![Texto alternativo](assets/1.JPG)
-
-in connectserver:<br>
-![Texto alternativo](assets/2.JPG)

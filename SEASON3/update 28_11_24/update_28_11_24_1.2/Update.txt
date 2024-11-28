@@ -1,0 +1,4 @@
+[1.2]
+- revision minimapa target
+- check update movement character in map
+- hide or open map and minimap target oup
