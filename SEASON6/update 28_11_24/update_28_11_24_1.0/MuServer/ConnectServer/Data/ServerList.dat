@@ -1,0 +1,13 @@
+0
+//ServerCode   ServerClient          ServerName          ServerAddress         ServerPort       ServerType
+0              "Server (pvp)"        "GameServer"        "192.168.1.60"        55901            "SHOW"
+1              "Server (Premium)"    "GameServer2"       "192.168.1.60"        55902            "SHOW"
+19             ""                    "GameServerCS"      "192.168.1.60"        55919            "HIDE"
+end
+
+1
+//ServerCode   ServerClient          ServerName          ServerAddress         ServerPort       ServerType
+0              "Server (pvp)"        "GameServer"        "192.168.1.60"        55921            "SHOW"
+1              "Server (Premium)"    "GameServer2"       "192.168.1.60"        55922            "SHOW"
+19             ""                    "GameServerCS"      "192.168.1.60"        55939            "HIDE"
+end
