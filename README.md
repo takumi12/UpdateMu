@@ -8,7 +8,7 @@ Show Map Example:<br>
 
 
 Tools Ceffect RenderMesh:<br>
-![Texto alternativo](assets/1.JPG)
+![Texto alternativo](assets/2.JPG)
 
 KEY PRESS:<br>
 - Tab key: (open/close)
