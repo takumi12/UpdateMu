@@ -1,0 +1,80 @@
+//=======================================================================================
+// Texture all: Data/Item/Texture/
+//=======================================================================================
+//Type #Index  #ColorR  #ColorG  #ColorB  #FileName
+//=======================================================================================
+0      36      255      178      63       "balhalla_sword"
+0      42      255      178      63       "blood_angelsword_s"
+0      44      255      178      63       "blood_anglesword"
+0      51      255      178      63       "absolute02_sword"
+0      54      255      178      63       "DarkangelSword"
+0      55      255      178      63       "DarkangelMagicsword"
+0      57      255      178      63       "HolyAngelSword"
+0      58      255      178      63       "HolyAngelMagicSword"
+0      62      255      178      63       "soulknightsword"
+0      63      255      178      63       "SoulmagicSword"
+0      72      255      178      63       "DarkAngelShortSword"
+0      73      255      178      63       "HolyAngelShortSword"
+0      74      255      178      63       "SoulShortSword"
+0      75      255      178      63       "Blue_eyeShortSword"
+0      78      255      178      63       "hs_blueeyeknightA"
+0      79      255      178      63       "blue_eye_magicsword01"
+0      81      255      178      63       "mastery_sword6"
+0      82      255      178      63       "mastery_magicsword6"
+0      84      255      178      63       "mastery_shortsword6"
+
+0      46      255      178      63       "BloodangelClo"		//-- claws
+0      52      255      178      63       "sword37"				//-- claws
+0      53      255      178      63       "sword38"				//-- claws
+0      56      255      178      63       "sword39"				//-- claws
+0      59      255      178      63       "Sword40"				//-- claws
+0      60      255      178      63       "sword41"				//-- claws
+0      61      255      178      63       "sword42"				//-- claws
+0      64      255      178      63       "sword43"				//-- claws
+0      80      255      178      63       "sword44"				//-- claws
+0      83      255      178      63       "sword45"				//-- claws
+0      87      255      178      63       "sword46"				//-- claws
+0      98      255      178      63       "sword47"				//-- claws
+0      124     100	    150	     200      "sword49"				//-- claws
+//=======================================================================================
+4      28      255      255      255      "bloodangel_bow"		//-- Bow
+4      30      255      255      255      "absolute_gunbow"		//-- CrossBow
+4      31      255      255      255      "Darkangel_Bow"		//-- Bow
+4      32      255      255      255      "hs_quiverLV1"		//-- Quiver
+4      33      255      255      255      "hs_quiverLV2"		//-- Quiver
+4      34      255      255      255      "hs_quiverLV3"		//-- Quiver
+4      35      255      255      255      "hs_quiverLV4"		//-- Quiver
+4      36      255      255      255      "HolyAngelBow"		//-- Bow
+4      37      255      255      255      "HolyAngelQuiver"		//-- Quiver
+4      38      255      255      255      "hs_soularcherbow_s"	//-- Bow
+4      39      255      255      255      "hs_quiverLV6"		//-- Quiver
+4      40      255      255      255      "blue_eyebow_stand"	//-- Bow
+4      41      255      255      255      "Quiver_lv07"			//-- Quiver
+4      56      255      255      255      "mastery_bow6_stand"	//-- Bow
+4      57      255      255      255      "Quiver_LV8"			//-- Quiver
+4      58      255      255      255      "mastery_bow07"		//-- Bow
+4      59      255      255      255      "mastery7_arrows"		//-- Quiver
+4      61      255      255      255      "brilliantbow"		//-- Bow
+4      62      255      255      255      "matery8_arrowbox"	//-- Quiver
+//=======================================================================================
+5      49      255      255      255      "absolute02_staff"
+//=======================================================================================
+//15     256     255      255      255      "hs_fiercelion_inB"
+//15     257     255      255      255      "hs_fiercelion_inR"
+15     258     255      255      255      "shiningtails_in"
+15     259     255      255      255      "rare_shiningtails_in"
+//15     260     255      255      255      "ur_inven"
+//15     261     255      255      255      "urUp_inven"
+//15     262     255      255      255      "Ghosthorse_item_mask01"
+//15     263     255      255      255      "hs_2GuadianiceCA"
+//15     264     255      255      255      "hs_2GuadianiceCB"
+12      341      0        0        0        "flag_mexico"
+end
+
+
+
+
+
+
+
+
