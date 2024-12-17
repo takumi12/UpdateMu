@@ -1,0 +1,7 @@
+[UPDATE: 1.0]
+- add folder exclusive minimap: Client\Data\Interface\HUD\NaviMap
+- add load fonts exclusive for lenguage: Client\Data\Interface\HUD\fonts
+- Loading of new fonts only occurs when you select Chinese or Korean language in the config.ini configuration file
+- add new logo effect_btn_settings.ozt is button open rendermesh new interface
+- new script cheking WZ_CreateCharacter.sql execute in sql
+

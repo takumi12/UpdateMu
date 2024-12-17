@@ -1,0 +1,71 @@
+<Migration>
+    <TableMapping source_name="AccountCharacter" target_name="AccountCharacter" update="false" funtion="">
+        <item source_item="Id" target_item="Id" checked="true" data_type="string" data_size="10"/>
+        <item source_item="GameID1" target_item="GameID1" data_type="string" data_size="10"/>
+        <item source_item="GameID2" target_item="GameID2" data_type="string" data_size="10"/>
+        <item source_item="GameID3" target_item="GameID3" data_type="string" data_size="10"/>
+        <item source_item="GameID4" target_item="GameID4" data_type="string" data_size="10"/>
+        <item source_item="GameID5" target_item="GameID5" data_type="string" data_size="10"/>
+        <item source_item="GameIDC" target_item="GameIDC" data_type="string" data_size="10"/>
+        <item source_item="MoveCnt" target_item="MoveCnt" data_type="int" data_size="NULL"/>
+        <item source_item="ExtClass" target_item="ExtClass" data_type="int" data_size="NULL"/>
+    </TableMapping>
+    <TableMapping source_name="MEMB_INFO" target_name="MEMB_INFO" update="false" funtion="">
+        <item source_item="memb___id" target_item="memb___id" checked="true" data_type="string" data_size="10"/>
+        <item source_item="memb__pwd" target_item="memb__pwd" data_type="string" data_size="10"/>
+        <item source_item="memb_name" target_item="memb_name" data_type="string" data_size="10"/>
+        <item source_item="sno__numb" target_item="sno__numb" data_type="string" data_size="10"/>
+        <item source_item="bloc_code" target_item="bloc_code" data_type="byte" data_size="no NULL"/>
+        <item source_item="ctl1_code" target_item="ctl1_code" data_type="byte" data_size="no NULL"/>
+        <item source_item="AccountLevel" target_item="AccountLevel" data_type="int" data_size="no NULL"/>
+    </TableMapping>
+    <TableMapping source_name="Character" target_name="Character" update="false" funtion="WZ_CreateCharacter">
+        <item source_item="AccountID" target_item="AccountID" checked="true" data_type="string" data_size="10"/>
+        <item source_item="Name" target_item="Name" checked="true" data_type="string" data_size="10"/>
+        <item source_item="cLevel" target_item="cLevel" data_type="int" data_size="NULL"/>
+        <item source_item="LevelUpPoint" target_item="LevelUpPoint" data_type="int" data_size="NULL"/>
+        <item source_item="Class" target_item="Class" data_type="int" data_size="NULL"/>
+        <item source_item="Experience" target_item="Experience" data_type="int" data_size="NULL"/>
+        <item source_item="Strength" target_item="Strength" data_type="int" data_size="NULL"/>
+        <item source_item="Dexterity" target_item="Dexterity" data_type="int" data_size="NULL"/>
+        <item source_item="Vitality" target_item="Vitality" data_type="int" data_size="NULL"/>
+        <item source_item="Energy" target_item="Energy" data_type="int" data_size="NULL"/>
+        <item source_item="Leadership" target_item="Leadership" data_type="int" data_size="NULL"/>
+        <item source_item="Inventory" target_item="Inventory" data_type="binary" data_size="4080"/>
+        <item source_item="Money" target_item="Money" data_type="int" data_size="NULL"/>
+        <item source_item="Life" target_item="Life" data_type="real" data_size="NULL"/>
+        <item source_item="MaxLife" target_item="MaxLife" data_type="real" data_size="NULL"/>
+        <item source_item="Mana" target_item="Mana" data_type="real" data_size="NULL"/>
+        <item source_item="MaxMana" target_item="MaxMana" data_type="real" data_size="NULL"/>
+        <item source_item="BP" target_item="BP" data_type="real" data_size="NULL"/>
+        <item source_item="MaxBP" target_item="MaxBP" data_type="real" data_size="NULL"/>
+        <item source_item="Shield" target_item="Shield" data_type="real" data_size="NULL"/>
+        <item source_item="MaxShield" target_item="MaxShield" data_type="real" data_size="NULL"/>
+        <item source_item="MapNumber" target_item="MapNumber" data_type="int" data_size="NULL"/>
+        <item source_item="MapPosX" target_item="MapPosX" data_type="int" data_size="NULL"/>
+        <item source_item="MapPosY" target_item="MapPosY" data_type="int" data_size="NULL"/>
+        <item source_item="MapDir" target_item="MapDir" data_type="int" data_size="NULL"/>
+        <item source_item="CtlCode" target_item="CtlCode" data_type="int" data_size="NULL"/>
+        <item source_item="ResetCount" target_item="ResetCount" data_type="int" data_size="no NULL"/>
+        <item source_item="MasterResetCount" target_item="MasterResetCount" data_type="int" data_size="no NULL"/>
+    </TableMapping>
+    <TableMapping source_name="Guild" target_name="Guild" update="false" funtion="">
+        <item source_item="G_Name" target_item="G_Name" checked="true" data_type="varchar" data_size="8"/>
+        <item source_item="G_Mark" target_item="G_Mark" data_type="binary" data_size="32"/>
+        <item source_item="G_Score" target_item="G_Score" data_type="int" data_size="NULL"/>
+        <item source_item="G_Master" target_item="G_Master" data_type="varchar" data_size="10"/>
+        <item source_item="G_Count" target_item="G_Count" data_type="int" data_size="NULL"/>
+        <item source_item="G_Notice" target_item="G_Notice" data_type="varchar" data_size="60"/>
+        <item source_item="Number" target_item="Number" data_type="int" data_size="no NULL"/>
+        <item source_item="G_Type" target_item="G_Type" data_type="int" data_size="no NULL"/>
+        <item source_item="G_Rival" target_item="G_Rival" data_type="int" data_size="no NULL"/>
+        <item source_item="G_Union" target_item="G_Union" data_type="int" data_size="no NULL"/>
+        <item source_item="MemberCount" target_item="MemberCount" data_type="int" data_size="no NULL"/>
+    </TableMapping>
+    <TableMapping source_name="GuildMember" target_name="GuildMember" update="false" funtion="">
+        <item source_item="Name" target_item="Name" checked="true" data_type="varchar" data_size="10"/>
+        <item source_item="G_Name" target_item="G_Name" data_type="varchar" data_size="8"/>
+        <item source_item="G_Level" target_item="G_Level" data_type="tinyint" data_size="NULL"/>
+        <item source_item="G_Status" target_item="G_Status" data_type="tinyint" data_size="no NULL"/>
+    </TableMapping>
+</Migration>
