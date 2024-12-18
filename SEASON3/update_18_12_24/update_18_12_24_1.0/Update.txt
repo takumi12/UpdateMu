@@ -1,0 +1,11 @@
+[UPDATE: 1.0]
+- custom jewel of level
+- custom jewel of option
+- custom jewel of excellent
+- custom jewel of socket
+- custom jewel of ancient
+- optimice load encoder
+- optimice load texture
+- fixed itemconver client main
+- fixed requierement item skill use
+- fixed wings option display
